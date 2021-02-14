@@ -1,1 +1,1 @@
-FROM jrcs/letsencrypt-nginx-proxy-companion:2
+FROM jrcs/letsencrypt-nginx-proxy-companion:2.0
